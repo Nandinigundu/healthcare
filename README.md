@@ -1,4 +1,5 @@
 Healthcare Appointment Booking App
+
 A simple and responsive React app where users can browse doctors, check their availability, and book appointments easily.
 
 Live Demo
@@ -7,6 +8,7 @@ https://healthcareappbooking.netlify.app/
 
 
 -> What I Used
+
 React.js – For building the user interface
 
 React Router DOM – To enable navigation between pages
@@ -21,6 +23,7 @@ Netlify – Where I deployed the app
 
 
 -> What This Project Does
+
 Shows a list of doctors with search by name or specialization
 
 Lets you see detailed info on each doctor’s profile page
@@ -33,6 +36,7 @@ Uses component-level CSS so each part of the app has its own styles
 
 
 -> Challenges and How I Fixed Them
+
 Keeping data consistent without a real backend:
 I used React's state and URL params and stored doctors info in static JSON files to simulate data flow.
 
