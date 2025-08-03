@@ -5,6 +5,7 @@ Live Demo
 
 https://healthcareappbooking.netlify.app/
 
+
 -> What I Used
 React.js – For building the user interface
 
@@ -43,4 +44,5 @@ Instead of Tailwind, I wrote simple CSS files per component to keep styles isola
 
 
 -->Contributions
+
 Feel free to explore this repo or send me suggestions to improve the app!
