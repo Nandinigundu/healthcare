@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anita Sharma",
+    "specialization": "Cardiologist",
+    "profileImg": "/dr_anita.jpg",
+    "availability": true,
+    "bio": "Expert in heart-related conditions..."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rahul Mehta",
+    "specialization": "Dermatologist",
+    "profileImg": "/dr_rahul.jpg",
+    "availability": false,
+    "bio": "Experienced with skin care..."
+  }
+]

@@ -1,0 +1,36 @@
+.doctor-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  background: #fff;
+  margin-bottom: 16px;
+  text-align: center;
+  transition: box-shadow 0.2s;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+
+.doctor-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 12px;
+  object-fit: cover;
+}
+
+.available {
+  color: #16a34a;
+}
+
+.unavailable {
+  color: #dc2626;
+}
+
+.profile-btn {
+  margin-top: 10px;
+  padding: 6px 16px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
